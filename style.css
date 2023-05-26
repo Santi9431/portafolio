@@ -7,7 +7,6 @@ body{
 .container {
     display: grid;
     margin: auto;
-    width: 960px;
     height: 650px;
     padding: 5px;
     grid-template-rows: 1fr auto; /* Agregar la propiedad grid-template-rows */
