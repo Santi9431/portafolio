@@ -90,6 +90,7 @@ body{
 p{
     padding: 50px;
     margin-left: 20%;
+    margin-top: 2em;
 }
 #btn-encriptar{
     padding: 24px;
@@ -118,7 +119,7 @@ p{
         margin-top:auto;
         text-align: center;
     }
-    .container , .right , .left-button{
+    .container , .right , .left-button, .copyright{
         margin-top: auto;
     }
 
